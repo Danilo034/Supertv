@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-name="SBT SP HD²" tvg-logo="0" group-title="CANAIS | ABERTOS",SBT SP HD²
+http://d2dxmktgc9qcf7.cloudfront.net/out/v1/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput_5.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="GLOBO SP HD" tvg-logo="0" group-title="CANAIS | ABERTOS",GLOBO SP HD
+http://hls1.sua.tv:80/live/globosphd/s.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="GAZETA TV HD" tvg-logo="0" group-title="CANAIS | ABERTOS",GAZETA TV HD
+http://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:-1 tvg-id=" " tvg-name="RECORD TV HD" tvg-logo="0" group-title="CANAIS | ABERTOS",RECORD TV HD
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ManoTV
+#EXTINF:-1 tvg-id=" " tvg-name="TV CULTURA HD" tvg-logo="0" group-title="CANAIS | ABERTOS",TV CULTURA HD
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
