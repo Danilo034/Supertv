@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-name="SBT HD" tvg-logo="0" group-title="CANAIS | ABERTOS",SBT HD
+https://d2dxmktgc9qcf7.cloudfront.net/out/v1/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="BAND HD" tvg-logo="0" group-title="CANAIS | ABERTOS",BAND HD
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1464711203.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="GLOBO HD" tvg-logo="0" group-title="CANAIS | ABERTOS",GLOBO HD
+https://iptv.vivatele.com/live/viva_padrao/viva2384/1.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="GAZETA HD [EM BREVE]" tvg-logo="0" group-title="CANAIS | ABERTOS",GAZETA HD [EM BREVE]
+ht://live-b.cf.dmcdn.net/sec2(Gsjwua_QgGg-A6kVOai3yJy3D5C00TEz27y5e8v5nJmHjju26QpszjxbbZc8Vhe_yj7lomUFpJ4)/dm/3/x8ttlxm/s/live-720.m3u8#cell=lcfb
+
+#EXTINF:-1 tvg-id=" " tvg-name="REDE TV HD" tvg-logo="0" group-title="CANAIS | ABERTOS",REDE TV HD
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="RECORD TV HD" tvg-logo="0" group-title="CANAIS | ABERTOS",RECORD TV HD
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id=" " tvg-name="CULTURA HD" tvg-logo="0" group-title="CANAIS | ABERTOS", CULTURA HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4559
+
+#EXTINF:-1 tvg-id=" " tvg-name="CANAL RURAL HD" tvg-logo="0" group-title="CANAIS | ABERTOS",CANAL RURAL HD
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="REDE VIDA HD" tvg-logo="0" group-title="CANAIS | ABERTOS",REDE VIDA HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="TV PADRE CÍCERO HD" tvg-logo="0" group-title="CANAIS | ABERTOS",TV PADRE CÍCERO HD
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="NOVO TEMPO HD" tvg-logo="0" group-title="CANAIS | ABERTOS",NOVO TEMPO HD
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="CURTA HD" tvg-logo="0" group-title="CANAIS | ABERTOS",CURTA HD
+https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="RECORD NEWS HD" tvg-logo="0" group-title="CANAIS | ABERTOS",RECORD NEWS HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+
+#EXTINF:-1 tvg-id=" " tvg-name="CARTOON NETWORK HD" tvg-logo="0" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
+https://cdn-3.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="DISCOVERY KIDS HD" tvg-logo="0" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD
+https://cdn-3.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="GLOOB [EM BREVE]" tvg-logo="0" group-title="CANAIS | INFANTIS",GLOOB [EM BREVE]
+https://cdn-3.nxplay.com.br/KIDS_NX/index.off
+
+#EXTINF:-1 tvg-id=" " tvg-name="NICKELODEON HD" tvg-logo="0" group-title="CANAIS | INFANTIS",NICKELODEON HD
+https://d1r94zrwa3gnlo.cloudfront.net/livestore102/stream/hls/284/284.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="NICK JR HD" tvg-logo="0" group-title="CANAIS | INFANTIS",NICK JR HD
+http://t2tp.xyz:80/343963665/370954400/71368
+
+#EXTINF:-1 tvg-id=" " tvg-name="TV ZYN HD" tvg-logo="0" group-title="CANAIS | INFANTIS",TV ZYN HD
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="TOONCAST HD" tvg-logo="0" group-title="CANAIS | INFANTIS",TOONCAST HD
+https://cdn-3.nxplay.com.br/TOONCAST_TK/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="ZOOMOO HD [EM BREVE]" tvg-logo="0" group-title="CANAIS | INFANTIS",ZOOMOO HD [EM BREVE]
+https://cdn-3.nxpcom.br/ZOOMOO_HD_NX_TK/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="RETRÔ CARTOON" tvg-logo="0" group-title="CANAIS | INFANTIS", RETRÔ CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w128968125.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="NOW ANOS 80" tvg-logo="0" group-title="CANAIS | MÚSICA",NOW ANOS 80
+http://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="NOW ANOS 70" tvg-logo="0" group-title="CANAIS | MÚSICA",NOW ANOS 70
+http://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="NOW ROCK" tvg-logo="0" group-title="CANAIS | MÚSICA",NOW ROCK
+http://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
