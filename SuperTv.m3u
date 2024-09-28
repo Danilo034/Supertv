@@ -74,3 +74,6 @@ http://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-name="NOW ROCK" tvg-logo="0" group-title="CANAIS | MÚSICA",NOW ROCK
 http://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="HALLOWEEN" tvg-logo="0" group-title="CANAIS | EXCLUSIVO",HALLOWEEN
+http://vod3.cf.dmcdn.net/sec2(j5efAIi3Zm83syrLe_QA7G7YINZkKBxLEnbRumIc6q9VXqYhs_iDUBVtn4y3MvsQ1pSHgazecZC0C-VXcgF_7NBOgptArgbh-FmuDdwqKEwHA5yX4RwVfkh0-YaRSbzqTkBFpdBSXV2Xwcoq21Miew)/video/416/679/554976614_mp4_h264_aac_hd_2.m3u8#cell=cf3
