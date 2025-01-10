@@ -26,9 +26,6 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w812706
 #EXTINF:-1 tvg-id=" " tvg-name="REDE VIDA HD" tvg-logo="0" group-title="CANAIS | ABERTOS",REDE VIDA HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-name="TV PADRE CÍCERO HD" tvg-logo="0" group-title="CANAIS | ABERTOS",TV PADRE CÍCERO HD
-https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
-
 #EXTINF:-1 tvg-id=" " tvg-name="NOVO TEMPO HD" tvg-logo="0" group-title="CANAIS | ABERTOS",NOVO TEMPO HD
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
 
