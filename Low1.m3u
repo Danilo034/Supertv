@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=" " tvg-name="SBT HD" tvg-logo="0" group-title="CANAIS | ABERTOS",SBT HD
+https://aovivo.maissbt.com/channel_1080.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="BAND HD" tvg-logo="0" group-title="CANAIS | ABERTOS",BAND HD
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1464711203.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="GLOBO HD" tvg-logo="0" group-title="CANAIS | ABERTOS",GLOBO HD
+https://iptv.vivatele.com/live/viva_padrao/viva2384/1.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="GAZETA HD [EM BREVE]" tvg-logo="0" group-title="CANAIS | ABERTOS",GAZETA HD [EM BREVE]
+https://live-b.cf.dmcdn.net/sec2(z8Ho3bj9uW6xA2IbWqz9fsdP5Zr9znZqujLnCA2fiJibmUj5SeB4QWuhQKmLgVdKcX-5czCOjqnX_cQqEBy1l5dtcalyvEmIHn5zmdkiHGiSwE1MJSQFsuvb6bYQqnn6)/dm/3/x8ttlxm/s/live-720.m3u8#cell=lcfb
+
+#EXTINF:-1 tvg-id=" " tvg-name="REDE TV HD" tvg-logo="0" group-title="CANAIS | ABERTOS",REDE TV HD
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="RECORD TV HD" tvg-logo="0" group-title="CANAIS | ABERTOS",RECORD TV HD
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id=" " tvg-name="CULTURA HD" tvg-logo="0" group-title="CANAIS | ABERTOS", CULTURA HD
+https://player-tvcultura.stream.uol.com.br/live/tvcultura_lsd.m3u8?vhost=player-tvcultura.stream.uol.com.br
+
+#EXTINF:-1 tvg-id=" " tvg-name="CANAL RURAL HD" tvg-logo="0" group-title="CANAIS | ABERTOS",CANAL RURAL HD
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w812706297_b3086000_sleng.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="REDE VIDA HD" tvg-logo="0" group-title="CANAIS | ABERTOS",REDE VIDA HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/live-redevida/720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="TV PADRE CÍCERO HD" tvg-logo="0" group-title="CANAIS | ABERTOS",TV PADRE CÍCERO HD
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="NOVO TEMPO HD" tvg-logo="0" group-title="CANAIS | ABERTOS",NOVO TEMPO HD
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="CURTA HD" tvg-logo="0" group-title="CANAIS | ABERTOS",CURTA HD
+https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-name="RECORD NEWS HD" tvg-logo="0" group-title="CANAIS | ABERTOS",RECORD NEWS HD
+https://stream.ads.ottera.tv/cl/241231ctq4o266e2flq722ple0/1280x720_3071200_0_f.m3u8?i=728_5431
